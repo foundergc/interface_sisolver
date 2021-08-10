@@ -1,0 +1,12 @@
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\x86\Debug\SISOLVERTEST.exe.config
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\x86\Debug\SISOLVERTEST.exe
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\x86\Debug\SISOLVERTEST.pdb
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\Interop.SPF_PROXYLib.dll
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.exe
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\x86\Debug\SISOLVERTEST.pdb

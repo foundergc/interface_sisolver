@@ -1,0 +1,141 @@
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\bin\Debug\SISOLVERTEST.exe.config
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\bin\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\bin\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\bin\Debug\SISOLVERTEST.exe.config
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\bin\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\bin\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST - 副本2\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\bin\Debug\SISOLVERTEST.exe.config
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\bin\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\bin\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn\obj\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Try_Sisolver\SISOLVER\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+D:\Jack_Pro\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Soft_Dev\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+E:\JackChen20191024\TransferFile\work\Inplan-Developer_JackChen\Dev_help_Pro\Test_Sisolver\SISOLVERTEST-API_CheckIn 4.5 20200107\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+D:\Christopher.liang\Desktop\源代码备份_陈杏_20200408\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe.config
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.exe
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\bin\Debug\SISOLVERTEST.pdb
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\Interop.SPF_PROXYLib.dll
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.SISOLVERTEST.resources
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.exe
+D:\Christopher.liang\Desktop\SISOLVERTEST-API_CheckIn 4.5\obj\Debug\SISOLVERTEST.pdb
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.csprojAssemblyReference.cache
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.pdb
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\bin\Debug\SISOLVERTEST.dll
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\bin\Debug\SISOLVERTEST.pdb
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\SISOLVERTEST.dll
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\bin\Debug\SISOLVERTEST.tlb
+C:\Users\xsz\Desktop\SISOLVERTEST\SISOLVERTEST\obj\Debug\Interop.SPF_PROXYLib.dll
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.Properties.Resources.resources
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.dll
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\SISOLVERTEST.pdb
+C:\Users\Administrator\Desktop\源码8_6修改\bin\Debug\SISOLVERTEST.dll
+C:\Users\Administrator\Desktop\源码8_6修改\bin\Debug\SISOLVERTEST.pdb
+C:\Users\Administrator\Desktop\源码8_6修改\bin\Debug\SISOLVERTEST.tlb
+C:\Users\Administrator\Desktop\源码8_6修改\obj\Debug\Interop.SPF_PROXYLib.dll
